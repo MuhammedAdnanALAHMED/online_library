@@ -1,6 +1,6 @@
 # online-library-management-system
 
- In this video we will understand the who project & take a look at the technologies to be used as well as the prerequisites of this course.
+ In this prject we will understand the who project & take a look at the technologies to be used as well as the prerequisites of this course.
 At the end of the video we will also take a demo tour/look at the web application which is a online library management system which we will build in this full course.
  In this  tutorial of the Dynamic Web Development with ASP.NET & C# programming with Bootstrap framework, we will do all the installations & Setup all the necessary libraries which we will use the in the development of this online library management system web application.
 The Softwares needed are -
